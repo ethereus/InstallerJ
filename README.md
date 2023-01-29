@@ -1,17 +1,3 @@
-InstallerJ is a new project to rewrite the Python Installer in Java.
+Second generation of Installer (the Python multi-platform package manager).
 
-Planned features:
-
-- password restricted repos
-- accounts
-- some form of payment system 
-- a nice modern UI
-- package description pages 
-- defining package install location in repo
-
-Under consideration:
-
-- support for system modifications 
-- support for code injection based tweaks 
-- android and iOS releases (will require root) 
-- complete rewrite in java
+This time, it's Java!
