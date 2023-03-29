@@ -1,3 +1,11 @@
+//
+// Main.java
+// Package Installer
+//
+// Created by ethereus on 29/01/23
+// Copyright © 2023 ethereus. All rights reserved.
+//
+
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
